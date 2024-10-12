@@ -23,7 +23,7 @@
         "rootRequired": false,
         "ipkUrl": "https://www.dropbox.com/scl/fi/ovfu4n8bilcw924oa0nsh/bylampa_v1.0.5.ipk?rlkey=baohkhpczgr3f2jijdue812qd&st=zxezr32w&dl=1",
         "ipkHash": {
-          "sha256": "4727F6C80A5AF636DF1F03B4743A72207733A932C472BBA9D6FC6A1A8E92D2F3"
+          "sha256": "4727f6c80a5af636df1f03b4743a72207733a932c472bba9d6fc6a1a8e92d2f3"
         },
         "ipkSize": 7121159
       },
