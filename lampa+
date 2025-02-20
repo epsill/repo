@@ -34,7 +34,7 @@
       {  
       "id": "mybylampa.tv",
       "title": "lampa+",
-      "iconUri": "https://epsill.github.io/plugins/sd.png?raw=true",
+      "iconUri": "https://epsill.github.io/repo/sd.png?raw=true",
       "manifest": {
         "id": "mybylampa.tv",
         "version": "1.3.5",
