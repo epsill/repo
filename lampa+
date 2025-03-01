@@ -14,7 +14,7 @@
       "iconUri": "https://epsill.github.io/plugins/sd.png?raw=true",
       "manifest": {
         "id": "bylampa.tv",
-        "version": "1.4.2",
+        "version": "2.3.0",
         "type": "web",
         "title": "bylampa",
         "appDescription": "",
